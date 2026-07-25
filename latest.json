@@ -1,7 +1,4 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/baksik93/cd-dienstplan-wb3-updates/releases/download/v1.0.9/CD-Dienstplan-fuer-WB3-1.0.9.apk",
-  "sha256": "f695a3d00c1cd8800967ce45f3af04d01862e590ff17af50e4f8d6611e1b7903",
-  "notes": "Automatische, sichere Aktualisierungen über GitHub wurden hinzugefügt."
+  "updatesEnabled": false,
+  "message": "Der öffentliche Update-Kanal ist aus Datenschutzgründen deaktiviert."
 }
