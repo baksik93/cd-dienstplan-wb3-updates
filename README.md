@@ -1,4 +1,4 @@
-# CD Dienstplan für WB3 – Aktualisierungen
+# Dienstplan für WB3
 
 Dieses öffentliche Repository stellt ausschließlich signierte APK-Aktualisierungen
 und das maschinenlesbare Update-Manifest bereit.
