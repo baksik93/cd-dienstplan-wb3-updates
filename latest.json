@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/baksik93/cd-dienstplan-wb3-updates/releases/download/v1.0.11/CD-Dienstplan-fuer-WB3-1.0.11.apk",
-  "sha256": "e959ef5eb663a700f361bf8ef60d09e8c4b7a0e96afd928e28031ab585dfecd0",
-  "notes": "Die Update-Prüfung erfolgt jetzt bei jedem App-Start und umgeht veraltete Zwischenspeicher."
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/baksik93/cd-dienstplan-wb3-updates/releases/download/v1.0.12/CD-Dienstplan-fuer-WB3-1.0.12.apk",
+  "sha256": "5d5583701d9563e3f18002b859939e0fc863d0cf9e1041d0e1a1347be760d5bf",
+  "notes": "Kontrollversion zur sofortigen Prüfung des verbesserten Update-Mechanismus."
 }
